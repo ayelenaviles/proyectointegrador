@@ -1,0 +1,144 @@
+@charset "utf-8";
+#contenedor {
+    height: 1500px;
+    width: 100%;
+    background-color: #FFFFFF;
+}
+#header {
+    background-color: #b2de93;
+    height: 350px;
+    width: 100%;
+}
+#titulo {
+    background-color: #B2DE93;
+    background-position: center center;
+    height: 200px;
+    width: 95%;
+    float: none;
+    clear: none;
+    margin-top: 25px;
+    margin-right: 25px;
+    margin-bottom: 25px;
+    margin-left: 25px;
+    text-decoration: underline;
+    font-size: 100px;
+    text-align: center;
+}
+#nombres {
+    background-color: #B2DE93;
+    height: 86px;
+    width: 90%;
+    margin-right: 14px;
+    margin-top: -14px;
+    margin-left: 52px;
+}
+#body {
+    height: 1000px;
+    width: 100%;
+    background-color: #B5DCB6;
+}
+#sepador1 {
+    height: 500px;
+    width: 100%;
+    background-color: #FFFFFF;
+}
+#prof {
+    height: 112px;
+    width: 60%;
+    background-color: #C6E6B0;
+    margin-right: 8px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    margin-left: 20px;
+    margin-top: 37px;
+}
+#prof2 {    height: 112px;
+    width: 60%;
+    background-color: #C6E6B0;
+    margin-right: 8px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    margin-left: 20px;
+    margin-top: 37px;
+}
+#prof3 { height: 112px;
+    width: 60%;
+    background-color: #C6E6B0;
+    margin-right: 8px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    margin-left: 20px;
+    margin-top: 37px;
+}
+#imagen {
+    background-color: #D2EFD4;
+    height: 406px;
+    width: 35%;
+    float: right;
+    margin-top: 37px;
+    margin-right: 6px;
+}
+#footer {
+    height: 150px;
+    width: 100%;
+    background-color: #C0F0CD;
+    margin-top: 2px;
+}
+.titulos {
+    margin-top: 0px;
+    text-decoration: underline;
+    font-size: 100px;
+    text-align: center;
+}
+#info1 {
+    background-color: #DBEEDB;
+    height: 134px;
+    width: 81%;
+    float: none;
+    margin-top: 30px;
+    margin-left: 90px;
+    margin-bottom: 28px;
+    margin-right: 61px;
+}
+#info2 {
+    background-color: #EDF6ED;
+    height: 280px;
+    width: 60%;
+    margin-left: 23px;
+    margin-bottom: -5px;
+    float: left;
+}
+#imagen1 {
+    float: left;
+    height: 262px;
+    width: 34%;
+    margin-top: 20px;
+    margin-left: 15px;
+    background-color: #FFFFFF;
+}
+#contenedor2 {
+    background-color: #B3D9B4;
+    height: 305px;
+    width: 100%;
+}
+.text1 {
+    text-decoration: underline;
+    color: #2B3E2F;
+}
+.model {
+    text-align: center;
+    text-decoration: underline;
+    font-size: 75px;
+    color: #1F2E26;
+}
+.obje {
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-size: 16px;
+    text-align: justify;
+}
+.mae {
+    text-align: center;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-size: 30px;
+
+}
